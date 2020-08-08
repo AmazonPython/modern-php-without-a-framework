@@ -1,3 +1,3 @@
 <?
 echo 'this is a controller file.';
-echo 'I;m charge!';
+echo "I'm charge!";
